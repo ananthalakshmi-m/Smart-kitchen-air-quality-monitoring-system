@@ -78,4 +78,8 @@ The NodeMCU ESP8266 firmware (`arduino-code/smart_kitchen.ino`) handles:
 
 <div align="center">
 
+
+https://github.com/user-attachments/assets/06b5a49a-1626-478f-857c-3c6eafad3845
+
+
 </div>
