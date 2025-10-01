@@ -1,0 +1,22 @@
+# Compiled Arduino/PlatformIO files
+*.elf
+*.bin
+*.hex
+*.eep
+*.map
+
+# Arduino IDE temporary and backup files
+*.tmp
+*.bak
+*.swp
+
+# VS Code settings
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Local Arduino libraries
+libraries/
